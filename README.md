@@ -1,1 +1,1 @@
-Verificador de Cpf com Typescript.
+Verificador de Cpf com Regex em Typescript.
